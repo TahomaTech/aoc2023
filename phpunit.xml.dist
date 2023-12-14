@@ -1,0 +1,7 @@
+<phpunit bootstrap="vendor/autoload.php">
+    <testsuites>
+        <testsuite name="Advent Of Code 2023">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
